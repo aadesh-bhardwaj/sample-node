@@ -1,1 +1,1 @@
-# server
+# server-auto-trigger-test
