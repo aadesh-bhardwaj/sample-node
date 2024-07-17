@@ -1,1 +1,1 @@
-# server-auto-trigger-test
+# server-auto-trigger-test-beta
